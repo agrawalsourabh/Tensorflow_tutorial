@@ -1,2 +1,2 @@
 # Tensorflow_tutorial
-Google Colabs notebooks
+Google Colabs and jupyter notebooks 
